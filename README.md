@@ -1,5 +1,9 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f6f3fbcbd77439fb431a59831827e73)](https://app.codacy.com/gh/spinsage/javalin-java-starter-restapi?utm_source=github.com&utm_medium=referral&utm_content=spinsage/javalin-java-starter-restapi&utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build Status](https://travis-ci.com/spinsage/javalin-java-starter-restapi.svg?branch=main)](https://travis-ci.com/spinsage/javalin-java-starter-restapi)
+[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-restapi/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-restapi/branches/main)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f6f3fbcbd77439fb431a59831827e73)](https://app.codacy.com/gh/spinsage/javalin-java-starter-restapi?utm_source=github.com&utm_medium=referral&utm_content=spinsage/javalin-java-starter-restapi&utm_campaign=Badge_Grade)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/javalin-java-starter-restapi.svg)](http://isitmaintained.com/project/spinsage/javalin-java-starter-restapi "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/spinsage/javalin-java-starter-restapi.svg)](http://isitmaintained.com/project/spinsage/javalin-java-starter-restapi "Percentage of issues still open")
 
 # Javalin (Java) Rest API Starter
 
