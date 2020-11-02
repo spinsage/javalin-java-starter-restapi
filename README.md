@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f6f3fbcbd77439fb431a59831827e73)](https://app.codacy.com/gh/spinsage/javalin-java-starter-restapi?utm_source=github.com&utm_medium=referral&utm_content=spinsage/javalin-java-starter-restapi&utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Javalin (Java) Rest API Starter
