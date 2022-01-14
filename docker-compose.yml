@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  api:
+    container_name: javalin-rest-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: javalin-rest-api
+    restart: always
+    ports:
+      - "8000:${SERVER_PORT}"
