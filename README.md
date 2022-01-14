@@ -26,7 +26,7 @@ Boilerplate maven project for bootstrapping development of a Rest API applicatio
 
 - Create a .env file by copying .env.sample.
 - Update environment variable values in the .env file as needed.
-- Execute docker-compose
+- Execute docker-compose.
 
 	```console
 	docker-compose up
@@ -34,11 +34,11 @@ Boilerplate maven project for bootstrapping development of a Rest API applicatio
 
 #### As a standalone application
 
-	```console
-	cd target
-	java -jar javalin-java-rest-1.0.0-SNAPSHOT-shaded.jar
-	```
-
+```console
+cd target
+java -jar javalin-java-rest-1.0.0-SNAPSHOT-shaded.jar
+```
+	
 ## LICENSE
 
 **Javalin Rest API Starter** is Apache 2-licensed.
