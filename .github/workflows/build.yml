@@ -1,6 +1,6 @@
 
 
-name: Java CI with Maven
+name: Javalin Starter Rest CI
 
 on:
   push:
