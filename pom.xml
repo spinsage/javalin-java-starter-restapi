@@ -10,7 +10,7 @@
         <dependency>
             <groupId>io.javalin</groupId>
             <artifactId>javalin-bundle</artifactId>
-            <version>3.11.0</version>
+            <version>3.13.12</version>
         </dependency>
     </dependencies>
 
@@ -37,8 +37,7 @@
                         <configuration>
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <transformers>
-                                <transformer
-                                        implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>com.spinsage.starter.javalinrest.RestApi</mainClass>
                                 </transformer>
                             </transformers>
