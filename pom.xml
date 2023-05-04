@@ -10,7 +10,7 @@
         <dependency>
             <groupId>io.javalin</groupId>
             <artifactId>javalin-bundle</artifactId>
-            <version>3.13.12</version>
+            <version>4.6.8</version>
         </dependency>
     </dependencies>
 
